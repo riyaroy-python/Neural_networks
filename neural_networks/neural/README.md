@@ -39,8 +39,8 @@ To run the application locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/grad-admission-predictor.git
-   cd grad-admission-predictor
+git clone https://github.com/riyaroy-python/Neural_networks.git 
+
 
 2. Create and activate a virtual environment:
    ```bash
